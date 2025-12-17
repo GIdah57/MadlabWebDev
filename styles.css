@@ -1,0 +1,35 @@
+
+
+h1{
+    background-color:red;
+    width: fit-content;
+}
+body{
+    background-color: rgb(98, 84, 84);
+}
+p{
+    background-color:blue;
+}
+.red{
+    background-color: rgb(168, 72, 168);
+}
+.orange{
+    background-color: orange
+    ;
+}
+.orange2{
+    background-color: orange;
+}
+.green{
+    background-color: greenyellow;
+}
+.warm{
+    background-color: orangered;
+}
+
+.brown{
+    background-color: brown;
+}
+.light{
+    background-color: blanchedalmond;
+}
