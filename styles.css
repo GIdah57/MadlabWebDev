@@ -6,32 +6,24 @@ body {
   background-color: rgb(238, 234, 234);
 }
 p {
-  background-color: blue;
+  background-color: orange;
   margin: 0;
   padding: 0.5rem;
 }
 
-.red {
-  width: 700px;
-  background-color: orange;
-}
+
+
 .orange {
   margin: 0;
-  background-color: #df5800;
+  background-color: #484543;
+  color: white;
 }
-.orange2 {
-  background-color: orange;
-}
+
+
 .green {
   background-color: greenyellow;
 }
-.warm {
-  background-color: #df5800;
-}
 
-.brown {
-  background-color: #df5800;
-}
 .light {
   background-color: blanchedalmond;
 }
@@ -59,6 +51,14 @@ main{
 
 }
 aside{
-    /* background-color: aqua; */
+    background-color: aqua
+    ;
     grid-column: 2/3;
+}
+img{
+    width: 60%;
+    height:25%
+    
+    ;
+
 }
