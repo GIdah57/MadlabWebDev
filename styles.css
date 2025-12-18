@@ -53,12 +53,12 @@ main{
 aside{
     background-color: aqua
     ;
-    grid-column: 2/3;
+    grid-column: 3/3;
 }
 img{
     width: 60%;
     height:25%
-    
+
     ;
 
 }
