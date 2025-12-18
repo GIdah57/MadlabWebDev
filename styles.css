@@ -1,35 +1,44 @@
-
-
-h1{
-    background-color:red;
-    width: fit-content;
+h1 {
+  background-color: orange;
+  width: fit-content;
 }
-body{
-    background-color: rgb(98, 84, 84);
+body {
+  background-color: rgb(238, 234, 234);
 }
-p{
-    background-color:blue;
-}
-.red{
-    background-color: rgb(168, 72, 168);
-}
-.orange{
-    background-color: orange
-    ;
-}
-.orange2{
-    background-color: orange;
-}
-.green{
-    background-color: greenyellow;
-}
-.warm{
-    background-color: orangered;
+p {
+  background-color: blue;
+  margin: 0;
+  padding: 0.5rem;
 }
 
-.brown{
-    background-color: brown;
+.red {
+  width: 700px;
+  background-color: orange;
 }
-.light{
-    background-color: blanchedalmond;
+.orange {
+  margin: 0;
+  background-color: #df5800;
+}
+.orange2 {
+  background-color: orange;
+}
+.green {
+  background-color: greenyellow;
+}
+.warm {
+  background-color: #df5800;
+}
+
+.brown {
+  background-color: #df5800;
+}
+.light {
+  background-color: blanchedalmond;
+}
+.game {
+  width: 700px;
+}
+
+.black {
+  background-color: white;
 }
